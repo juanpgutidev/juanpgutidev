@@ -3,7 +3,7 @@
   <a href="https://juanpgutidev.com" target="blank"><img align="center" src="https://juanpgutidev.com/projects/res/img/banner_github.png" alt="juanpgutidev"/></a>
 <h3 align="center">#Soy un apasionado desarollador full stack de COLOMBIA</h3>
 
-<h3 align="center">
+<h3 align="left">
 Resumen: Desarrollador de software experimentado, apasionado por su trabajo y adaptable a cualquier entorno. Hábil para trabajar en equipo.
 
 Lenguajes de programación: Java, Python, JavaScript, Php
