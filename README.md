@@ -1,29 +1,16 @@
 <h1 align="center">Hola 👋, Soy Juan Pablo Gutierrez</h1>
 <p align="left">
   <a href="https://juanpgutidev.com" target="blank"><img align="center" src="https://juanpgutidev.com/projects/res/img/banner_github.png" alt="juanpgutidev"/></a>
+<h3 align="center">#Soy un apasionado desarollador full stack de COLOMBIA</h3>
+
 <h3 align="center">
-#Soy un apasionado desarollador full stack de COLOMBIA
+Resumen: Desarrollador de software experimentado, apasionado por su trabajo y adaptable a cualquier entorno. Hábil para trabajar en equipo.
 
-
-Resumen: Desarrollador de software experimentado(php,mysql,java,javascript,node), apasionado por su trabajo y adaptable a cualquier entorno. Hábil para trabajar en equipo y adaptarme.
-
-Experiencia laboral:
-
-Desarrollador de software en ABC Company (5 años)
-Líder de proyecto en XYZ Company (3 años)
-Consultor de tecnología en 123 Consulting (2 años)
-Habilidades técnicas:
-
-Lenguajes de programación: Java, Python, C++, JavaScript
-Frameworks: Spring, Django, React, Angular
-Bases de datos: MySQL, Oracle, MongoDB
+Lenguajes de programación: Java, Python, JavaScript, Php
+Frameworks: Node, Django, React
+Bases de datos: MySQL, Oracle, FireBase
 Herramientas de control de versiones: Git, SVN
-Metodologías de desarrollo ágil: Scrum, Kanban
-Logros:
-
-Diseñó y desarrolló una aplicación web de gestión de proyectos para ABC Company que aumentó la eficiencia del equipo en un 30%.
-Lideró el proyecto de implementación de un sistema de gestión de clientes en XYZ Company, que redujo el tiempo de respuesta en un 50%.
-Ayudó a 123 Consulting a establecer un marco de trabajo ágil para sus proyectos de desarrollo de software.
+Metodologías de desarrollo ágil: Scrum
 
 </h3>
 
