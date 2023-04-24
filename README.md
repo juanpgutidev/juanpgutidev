@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, Soy Juan Pablo Gutierrez</h1>
 <p align="left">
-  <a href="https://juanpgutidev.com" target="blank"><img align="center" src="https://juanpgutidev.com/projects/res/img/banner_github.png" alt="juanpgutidev"/></a>
+  <a href="https://juanpgutidev.com" target="blank"><img align="center" src="https://juanpgutidev.com/projects/res/img/banner_github_.png" alt="juanpgutidev"/></a>
 <h3 align="center">#Soy un apasionado desarollador full stack de COLOMBIA</h3>
 
 <h3 align="left">
